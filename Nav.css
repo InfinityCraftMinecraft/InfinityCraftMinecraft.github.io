@@ -110,3 +110,15 @@
 .bottom{
   color: gray;
 }
+
+.description{
+  text-align: center;
+  font-family: Comfortaa, serif;
+  padding-top: 20px;
+  color: rgb(0, 0, 0);
+}
+
+.image{
+  text-align: center;
+  padding-top: 20px;
+}
