@@ -1,3 +1,2 @@
 # InfinityCraftMinecraft.github.io
-
-pornhub.com/gay
+Made by InfinityPlayz9, GoodCat_Gamer and EndGaming10
