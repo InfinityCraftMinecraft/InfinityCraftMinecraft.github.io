@@ -9,10 +9,8 @@
 </head>
 
 <body>
+<h1 style="text-align: center;font-family: Comfortaa, serif;padding-top: 200px;color: rgb(0, 0, 0);">Get IP-grabbed</h1>
 
-<h1>
-  Get ip-grabebd shitstick
-</h1>
 
 <?PHP
 
