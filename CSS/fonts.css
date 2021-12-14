@@ -24,6 +24,7 @@ p {
     font-family: "Open Sans";
 	font-weight: 800;
 	transition: top ease 0.5s;
+	top: 0
 }
 
 .copy-button:hover {
